@@ -1,0 +1,11 @@
+div,p {
+  color: #ffffff;
+}
+
+
+div {
+  font-weight: bold;
+  font-size: 2em;
+  background-color: hsl(0, 96%, 52%);
+  text-align: center;
+}
